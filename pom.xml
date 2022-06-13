@@ -5,12 +5,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>guru.refactoring</groupId>
-    <artifactId>design-patterns</artifactId>
+    <artifactId>design-patterns-java</artifactId>
     <version>1.0.0</version>
     <packaging>jar</packaging>
 
     <properties>
-        <jdk.version>17</jdk.version>
+        <jdk.version>9</jdk.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 

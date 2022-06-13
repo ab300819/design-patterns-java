@@ -1,4 +1,4 @@
-package refactoring_guru.composite.example.shapes;
+package guru.refactoring.composite.example.shapes;
 
 import java.awt.*;
 

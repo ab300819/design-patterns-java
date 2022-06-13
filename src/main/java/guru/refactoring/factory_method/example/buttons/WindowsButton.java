@@ -1,4 +1,4 @@
-package refactoring_guru.factory_method.example.buttons;
+package guru.refactoring.factory_method.example.buttons;
 
 import javax.swing.*;
 import java.awt.*;

@@ -1,7 +1,7 @@
-package refactoring_guru.state.example;
+package guru.refactoring.state.example;
 
-import refactoring_guru.state.example.ui.Player;
-import refactoring_guru.state.example.ui.UI;
+import guru.refactoring.state.example.ui.Player;
+import guru.refactoring.state.example.ui.UI;
 
 /**
  * EN: Demo class. Everything comes together here.

@@ -1,10 +1,10 @@
-package refactoring_guru.bridge.example;
+package guru.refactoring.bridge.example;
 
-import refactoring_guru.bridge.example.devices.Device;
-import refactoring_guru.bridge.example.devices.Radio;
-import refactoring_guru.bridge.example.devices.Tv;
-import refactoring_guru.bridge.example.remotes.AdvancedRemote;
-import refactoring_guru.bridge.example.remotes.BasicRemote;
+import guru.refactoring.bridge.example.devices.Device;
+import guru.refactoring.bridge.example.devices.Radio;
+import guru.refactoring.bridge.example.devices.Tv;
+import guru.refactoring.bridge.example.remotes.AdvancedRemote;
+import guru.refactoring.bridge.example.remotes.BasicRemote;
 
 public class Demo {
     public static void main(String[] args) {

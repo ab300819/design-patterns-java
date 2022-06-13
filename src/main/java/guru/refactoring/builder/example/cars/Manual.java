@@ -1,9 +1,9 @@
-package refactoring_guru.builder.example.cars;
+package guru.refactoring.builder.example.cars;
 
-import refactoring_guru.builder.example.components.Engine;
-import refactoring_guru.builder.example.components.GPSNavigator;
-import refactoring_guru.builder.example.components.Transmission;
-import refactoring_guru.builder.example.components.TripComputer;
+import guru.refactoring.builder.example.components.Engine;
+import guru.refactoring.builder.example.components.GPSNavigator;
+import guru.refactoring.builder.example.components.Transmission;
+import guru.refactoring.builder.example.components.TripComputer;
 
 /**
  * EN: Car manual is another product. Note that it does not have the same

@@ -1,6 +1,6 @@
-package refactoring_guru.iterator.example.iterators;
+package guru.refactoring.iterator.example.iterators;
 
-import refactoring_guru.iterator.example.profile.Profile;
+import guru.refactoring.iterator.example.profile.Profile;
 
 public interface ProfileIterator {
     boolean hasNext();

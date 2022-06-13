@@ -1,6 +1,6 @@
-package refactoring_guru.mediator.example.components;
+package guru.refactoring.mediator.example.components;
 
-import refactoring_guru.mediator.example.mediator.Mediator;
+import guru.refactoring.mediator.example.mediator.Mediator;
 
 import javax.swing.*;
 import java.awt.event.ActionEvent;

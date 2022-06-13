@@ -1,4 +1,4 @@
-package refactoring_guru.adapter.example.square;
+package guru.refactoring.adapter.example.square;
 
 /**
  * EN: SquarePegs are not compatible with RoundHoles (they were implemented by

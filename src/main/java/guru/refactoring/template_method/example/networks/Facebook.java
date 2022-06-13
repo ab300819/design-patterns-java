@@ -1,4 +1,4 @@
-package refactoring_guru.template_method.example.networks;
+package guru.refactoring.template_method.example.networks;
 
 /**
  * EN: Class of social network

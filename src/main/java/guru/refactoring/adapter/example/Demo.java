@@ -1,9 +1,9 @@
-package refactoring_guru.adapter.example;
+package guru.refactoring.adapter.example;
 
-import refactoring_guru.adapter.example.adapters.SquarePegAdapter;
-import refactoring_guru.adapter.example.round.RoundHole;
-import refactoring_guru.adapter.example.round.RoundPeg;
-import refactoring_guru.adapter.example.square.SquarePeg;
+import guru.refactoring.adapter.example.adapters.SquarePegAdapter;
+import guru.refactoring.adapter.example.round.RoundHole;
+import guru.refactoring.adapter.example.round.RoundPeg;
+import guru.refactoring.adapter.example.square.SquarePeg;
 
 /**
  * EN: Somewhere in client code...

@@ -1,6 +1,6 @@
-package refactoring_guru.facade.example.facade;
+package guru.refactoring.facade.example.facade;
 
-import refactoring_guru.facade.example.some_complex_media_library.*;
+import guru.refactoring.facade.example.some_complex_media_library.*;
 
 import java.io.File;
 

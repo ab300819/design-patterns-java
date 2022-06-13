@@ -1,6 +1,6 @@
-package refactoring_guru.chain_of_responsibility.example.middleware;
+package guru.refactoring.chain_of_responsibility.example.middleware;
 
-import refactoring_guru.chain_of_responsibility.example.server.Server;
+import guru.refactoring.chain_of_responsibility.example.server.Server;
 
 /**
  * EN: ConcreteHandler. Checks whether a user with the given credentials exists.

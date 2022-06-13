@@ -1,6 +1,6 @@
-package refactoring_guru.observer.example.editor;
+package guru.refactoring.observer.example.editor;
 
-import refactoring_guru.observer.example.publisher.EventManager;
+import guru.refactoring.observer.example.publisher.EventManager;
 
 import java.io.File;
 

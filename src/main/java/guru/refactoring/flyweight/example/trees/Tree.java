@@ -1,4 +1,4 @@
-package refactoring_guru.flyweight.example.trees;
+package guru.refactoring.flyweight.example.trees;
 
 import java.awt.*;
 

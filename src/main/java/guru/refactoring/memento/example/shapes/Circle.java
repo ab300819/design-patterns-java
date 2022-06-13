@@ -1,4 +1,4 @@
-package refactoring_guru.memento.example.shapes;
+package guru.refactoring.memento.example.shapes;
 
 import java.awt.*;
 

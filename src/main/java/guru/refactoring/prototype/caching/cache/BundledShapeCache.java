@@ -1,8 +1,8 @@
-package refactoring_guru.prototype.caching.cache;
+package guru.refactoring.prototype.caching.cache;
 
-import refactoring_guru.prototype.example.shapes.Circle;
-import refactoring_guru.prototype.example.shapes.Rectangle;
-import refactoring_guru.prototype.example.shapes.Shape;
+import guru.refactoring.prototype.example.shapes.Circle;
+import guru.refactoring.prototype.example.shapes.Rectangle;
+import guru.refactoring.prototype.example.shapes.Shape;
 
 import java.util.HashMap;
 import java.util.Map;

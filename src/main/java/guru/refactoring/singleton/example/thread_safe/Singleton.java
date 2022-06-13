@@ -1,4 +1,4 @@
-package refactoring_guru.singleton.example.thread_safe;
+package guru.refactoring.singleton.example.thread_safe;
 
 public final class Singleton {
     // EN: The field must be declared volatile so that double check lock would

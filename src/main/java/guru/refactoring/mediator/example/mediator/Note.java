@@ -1,4 +1,4 @@
-package refactoring_guru.mediator.example.mediator;
+package guru.refactoring.mediator.example.mediator;
 
 /**
  * EN: Note class.

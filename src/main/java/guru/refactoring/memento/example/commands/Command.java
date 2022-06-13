@@ -1,4 +1,4 @@
-package refactoring_guru.memento.example.commands;
+package guru.refactoring.memento.example.commands;
 
 public interface Command {
     String getName();

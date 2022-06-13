@@ -1,10 +1,10 @@
-package refactoring_guru.chain_of_responsibility.example;
+package guru.refactoring.chain_of_responsibility.example;
 
-import refactoring_guru.chain_of_responsibility.example.middleware.Middleware;
-import refactoring_guru.chain_of_responsibility.example.middleware.RoleCheckMiddleware;
-import refactoring_guru.chain_of_responsibility.example.middleware.ThrottlingMiddleware;
-import refactoring_guru.chain_of_responsibility.example.middleware.UserExistsMiddleware;
-import refactoring_guru.chain_of_responsibility.example.server.Server;
+import guru.refactoring.chain_of_responsibility.example.middleware.Middleware;
+import guru.refactoring.chain_of_responsibility.example.middleware.RoleCheckMiddleware;
+import guru.refactoring.chain_of_responsibility.example.middleware.ThrottlingMiddleware;
+import guru.refactoring.chain_of_responsibility.example.middleware.UserExistsMiddleware;
+import guru.refactoring.chain_of_responsibility.example.server.Server;
 
 import java.io.BufferedReader;
 import java.io.IOException;

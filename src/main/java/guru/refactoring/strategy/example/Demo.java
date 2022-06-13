@@ -1,9 +1,9 @@
-package refactoring_guru.strategy.example;
+package guru.refactoring.strategy.example;
 
-import refactoring_guru.strategy.example.order.Order;
-import refactoring_guru.strategy.example.strategies.PayByCreditCard;
-import refactoring_guru.strategy.example.strategies.PayByPayPal;
-import refactoring_guru.strategy.example.strategies.PayStrategy;
+import guru.refactoring.strategy.example.order.Order;
+import guru.refactoring.strategy.example.strategies.PayByCreditCard;
+import guru.refactoring.strategy.example.strategies.PayByPayPal;
+import guru.refactoring.strategy.example.strategies.PayStrategy;
 
 import java.io.BufferedReader;
 import java.io.IOException;

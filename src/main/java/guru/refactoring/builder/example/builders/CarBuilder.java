@@ -1,11 +1,11 @@
-package refactoring_guru.builder.example.builders;
+package guru.refactoring.builder.example.builders;
 
-import refactoring_guru.builder.example.cars.Car;
-import refactoring_guru.builder.example.cars.CarType;
-import refactoring_guru.builder.example.components.Engine;
-import refactoring_guru.builder.example.components.GPSNavigator;
-import refactoring_guru.builder.example.components.Transmission;
-import refactoring_guru.builder.example.components.TripComputer;
+import guru.refactoring.builder.example.cars.Car;
+import guru.refactoring.builder.example.cars.CarType;
+import guru.refactoring.builder.example.components.Engine;
+import guru.refactoring.builder.example.components.GPSNavigator;
+import guru.refactoring.builder.example.components.Transmission;
+import guru.refactoring.builder.example.components.TripComputer;
 
 /**
  * EN: Concrete builders implement steps defined in the common interface.

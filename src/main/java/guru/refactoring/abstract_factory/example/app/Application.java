@@ -1,8 +1,8 @@
-package refactoring_guru.abstract_factory.example.app;
+package guru.refactoring.abstract_factory.example.app;
 
-import refactoring_guru.abstract_factory.example.buttons.Button;
-import refactoring_guru.abstract_factory.example.checkboxes.Checkbox;
-import refactoring_guru.abstract_factory.example.factories.GUIFactory;
+import guru.refactoring.abstract_factory.example.buttons.Button;
+import guru.refactoring.abstract_factory.example.checkboxes.Checkbox;
+import guru.refactoring.abstract_factory.example.factories.GUIFactory;
 
 /**
  * EN: Factory users don't care which concrete factory they use since they work

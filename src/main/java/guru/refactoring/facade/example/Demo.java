@@ -1,6 +1,6 @@
-package refactoring_guru.facade.example;
+package guru.refactoring.facade.example;
 
-import refactoring_guru.facade.example.facade.VideoConversionFacade;
+import guru.refactoring.facade.example.facade.VideoConversionFacade;
 
 import java.io.File;
 

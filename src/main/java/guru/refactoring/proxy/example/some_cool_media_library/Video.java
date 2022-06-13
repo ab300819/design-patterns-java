@@ -1,4 +1,4 @@
-package refactoring_guru.proxy.example.some_cool_media_library;
+package guru.refactoring.proxy.example.some_cool_media_library;
 
 public class Video {
     public String id;

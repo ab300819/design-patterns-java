@@ -1,4 +1,4 @@
-package refactoring_guru.facade.example.some_complex_media_library;
+package guru.refactoring.facade.example.some_complex_media_library;
 
 public class VideoFile {
     private String name;

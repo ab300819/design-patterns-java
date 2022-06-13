@@ -1,4 +1,4 @@
-package refactoring_guru.iterator.example.profile;
+package guru.refactoring.iterator.example.profile;
 
 import java.util.ArrayList;
 import java.util.HashMap;

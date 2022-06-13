@@ -1,4 +1,4 @@
-package refactoring_guru.decorator.example.decorators;
+package guru.refactoring.decorator.example.decorators;
 
 public interface DataSource {
     void writeData(String data);

@@ -1,7 +1,7 @@
-package refactoring_guru.abstract_factory.example.factories;
+package guru.refactoring.abstract_factory.example.factories;
 
-import refactoring_guru.abstract_factory.example.buttons.Button;
-import refactoring_guru.abstract_factory.example.checkboxes.Checkbox;
+import guru.refactoring.abstract_factory.example.buttons.Button;
+import guru.refactoring.abstract_factory.example.checkboxes.Checkbox;
 
 /**
  * EN: Abstract factory knows about all (abstract) product types.

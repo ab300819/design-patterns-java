@@ -1,4 +1,4 @@
-package refactoring_guru.chain_of_responsibility.example.middleware;
+package guru.refactoring.chain_of_responsibility.example.middleware;
 
 /**
  * EN: ConcreteHandler. Checks whether there are too many failed login requests.

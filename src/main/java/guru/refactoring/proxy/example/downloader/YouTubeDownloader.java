@@ -1,7 +1,7 @@
-package refactoring_guru.proxy.example.downloader;
+package guru.refactoring.proxy.example.downloader;
 
-import refactoring_guru.proxy.example.some_cool_media_library.ThirdPartyYouTubeLib;
-import refactoring_guru.proxy.example.some_cool_media_library.Video;
+import guru.refactoring.proxy.example.some_cool_media_library.ThirdPartyYouTubeLib;
+import guru.refactoring.proxy.example.some_cool_media_library.Video;
 
 import java.util.HashMap;
 

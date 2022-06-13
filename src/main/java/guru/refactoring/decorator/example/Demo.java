@@ -1,6 +1,6 @@
-package refactoring_guru.decorator.example;
+package guru.refactoring.decorator.example;
 
-import refactoring_guru.decorator.example.decorators.*;
+import guru.refactoring.decorator.example.decorators.*;
 
 public class Demo {
     public static void main(String[] args) {

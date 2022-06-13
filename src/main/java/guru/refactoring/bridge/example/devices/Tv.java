@@ -1,4 +1,4 @@
-package refactoring_guru.bridge.example.devices;
+package guru.refactoring.bridge.example.devices;
 
 public class Tv implements Device {
     private boolean on = false;

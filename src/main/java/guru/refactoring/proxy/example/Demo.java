@@ -1,8 +1,8 @@
-package refactoring_guru.proxy.example;
+package guru.refactoring.proxy.example;
 
-import refactoring_guru.proxy.example.downloader.YouTubeDownloader;
-import refactoring_guru.proxy.example.proxy.YouTubeCacheProxy;
-import refactoring_guru.proxy.example.some_cool_media_library.ThirdPartyYouTubeClass;
+import guru.refactoring.proxy.example.downloader.YouTubeDownloader;
+import guru.refactoring.proxy.example.proxy.YouTubeCacheProxy;
+import guru.refactoring.proxy.example.some_cool_media_library.ThirdPartyYouTubeClass;
 
 public class Demo {
 

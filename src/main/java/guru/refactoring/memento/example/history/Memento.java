@@ -1,6 +1,6 @@
-package refactoring_guru.memento.example.history;
+package guru.refactoring.memento.example.history;
 
-import refactoring_guru.memento.example.editor.Editor;
+import guru.refactoring.memento.example.editor.Editor;
 
 public class Memento {
     private String backup;

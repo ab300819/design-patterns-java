@@ -1,7 +1,7 @@
-package refactoring_guru.composite.example.editor;
+package guru.refactoring.composite.example.editor;
 
-import refactoring_guru.composite.example.shapes.CompoundShape;
-import refactoring_guru.composite.example.shapes.Shape;
+import guru.refactoring.composite.example.shapes.CompoundShape;
+import guru.refactoring.composite.example.shapes.Shape;
 
 import javax.swing.*;
 import javax.swing.border.Border;

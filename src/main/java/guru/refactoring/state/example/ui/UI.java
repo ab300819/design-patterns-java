@@ -1,4 +1,4 @@
-package refactoring_guru.state.example.ui;
+package guru.refactoring.state.example.ui;
 
 import javax.swing.*;
 import java.awt.*;

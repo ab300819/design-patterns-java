@@ -1,8 +1,8 @@
-package refactoring_guru.factory_method.example;
+package guru.refactoring.factory_method.example;
 
-import refactoring_guru.factory_method.example.factory.Dialog;
-import refactoring_guru.factory_method.example.factory.HtmlDialog;
-import refactoring_guru.factory_method.example.factory.WindowsDialog;
+import guru.refactoring.factory_method.example.factory.Dialog;
+import guru.refactoring.factory_method.example.factory.HtmlDialog;
+import guru.refactoring.factory_method.example.factory.WindowsDialog;
 
 /**
  * EN: Demo class. Everything comes together here.

@@ -1,4 +1,4 @@
-package refactoring_guru.bridge.example.remotes;
+package guru.refactoring.bridge.example.remotes;
 
 public interface Remote {
     void power();

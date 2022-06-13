@@ -1,10 +1,10 @@
-package refactoring_guru.memento.example.editor;
+package guru.refactoring.memento.example.editor;
 
-import refactoring_guru.memento.example.commands.Command;
-import refactoring_guru.memento.example.history.History;
-import refactoring_guru.memento.example.history.Memento;
-import refactoring_guru.memento.example.shapes.CompoundShape;
-import refactoring_guru.memento.example.shapes.Shape;
+import guru.refactoring.memento.example.commands.Command;
+import guru.refactoring.memento.example.history.History;
+import guru.refactoring.memento.example.history.Memento;
+import guru.refactoring.memento.example.shapes.CompoundShape;
+import guru.refactoring.memento.example.shapes.Shape;
 
 import javax.swing.*;
 import java.io.*;

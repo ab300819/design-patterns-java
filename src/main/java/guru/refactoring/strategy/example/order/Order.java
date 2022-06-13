@@ -1,6 +1,6 @@
-package refactoring_guru.strategy.example.order;
+package guru.refactoring.strategy.example.order;
 
-import refactoring_guru.strategy.example.strategies.PayStrategy;
+import guru.refactoring.strategy.example.strategies.PayStrategy;
 
 /**
  * EN: Order class. Doesn't know the concrete payment method (strategy) user has

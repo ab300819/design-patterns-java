@@ -1,4 +1,4 @@
-package refactoring_guru.builder.example.components;
+package guru.refactoring.builder.example.components;
 
 /**
  * EN: Just another feature of a car.

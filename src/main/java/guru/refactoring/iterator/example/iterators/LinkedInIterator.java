@@ -1,7 +1,7 @@
-package refactoring_guru.iterator.example.iterators;
+package guru.refactoring.iterator.example.iterators;
 
-import refactoring_guru.iterator.example.profile.Profile;
-import refactoring_guru.iterator.example.social_networks.LinkedIn;
+import guru.refactoring.iterator.example.profile.Profile;
+import guru.refactoring.iterator.example.social_networks.LinkedIn;
 
 import java.util.ArrayList;
 import java.util.List;

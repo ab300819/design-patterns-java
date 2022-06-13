@@ -1,8 +1,8 @@
-package refactoring_guru.template_method.example;
+package guru.refactoring.template_method.example;
 
-import refactoring_guru.template_method.example.networks.Facebook;
-import refactoring_guru.template_method.example.networks.Network;
-import refactoring_guru.template_method.example.networks.Twitter;
+import guru.refactoring.template_method.example.networks.Facebook;
+import guru.refactoring.template_method.example.networks.Network;
+import guru.refactoring.template_method.example.networks.Twitter;
 
 import java.io.BufferedReader;
 import java.io.IOException;

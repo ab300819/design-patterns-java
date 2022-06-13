@@ -1,7 +1,7 @@
-package refactoring_guru.prototype.caching;
+package guru.refactoring.prototype.caching;
 
-import refactoring_guru.prototype.caching.cache.BundledShapeCache;
-import refactoring_guru.prototype.example.shapes.Shape;
+import guru.refactoring.prototype.caching.cache.BundledShapeCache;
+import guru.refactoring.prototype.example.shapes.Shape;
 
 public class Demo {
     public static void main(String[] args) {

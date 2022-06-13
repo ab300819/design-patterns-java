@@ -1,8 +1,8 @@
-package refactoring_guru.iterator.example.spammer;
+package guru.refactoring.iterator.example.spammer;
 
-import refactoring_guru.iterator.example.iterators.ProfileIterator;
-import refactoring_guru.iterator.example.profile.Profile;
-import refactoring_guru.iterator.example.social_networks.SocialNetwork;
+import guru.refactoring.iterator.example.iterators.ProfileIterator;
+import guru.refactoring.iterator.example.profile.Profile;
+import guru.refactoring.iterator.example.social_networks.SocialNetwork;
 
 public class SocialSpammer {
     public SocialNetwork network;

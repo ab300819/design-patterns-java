@@ -1,9 +1,9 @@
-package refactoring_guru.interpreter.example;
+package guru.refactoring.interpreter.example;
 
-import refactoring_guru.interpreter.example.expressions.AndExpression;
-import refactoring_guru.interpreter.example.expressions.Context;
-import refactoring_guru.interpreter.example.expressions.OrExpression;
-import refactoring_guru.interpreter.example.expressions.VariableExpression;
+import guru.refactoring.interpreter.example.expressions.AndExpression;
+import guru.refactoring.interpreter.example.expressions.Context;
+import guru.refactoring.interpreter.example.expressions.OrExpression;
+import guru.refactoring.interpreter.example.expressions.VariableExpression;
 
 /**
  * EN: Interpreter Design Pattern

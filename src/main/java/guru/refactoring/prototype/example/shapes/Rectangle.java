@@ -1,4 +1,4 @@
-package refactoring_guru.prototype.example.shapes;
+package guru.refactoring.prototype.example.shapes;
 
 public class Rectangle extends Shape {
     public int width;

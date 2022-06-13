@@ -1,6 +1,6 @@
-package refactoring_guru.command.example;
+package guru.refactoring.command.example;
 
-import refactoring_guru.command.example.editor.Editor;
+import guru.refactoring.command.example.editor.Editor;
 
 public class Demo {
     public static void main(String[] args) {

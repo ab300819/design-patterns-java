@@ -1,10 +1,10 @@
-package refactoring_guru.builder.example;
+package guru.refactoring.builder.example;
 
-import refactoring_guru.builder.example.builders.CarBuilder;
-import refactoring_guru.builder.example.builders.CarManualBuilder;
-import refactoring_guru.builder.example.cars.Car;
-import refactoring_guru.builder.example.cars.Manual;
-import refactoring_guru.builder.example.director.Director;
+import guru.refactoring.builder.example.builders.CarBuilder;
+import guru.refactoring.builder.example.builders.CarManualBuilder;
+import guru.refactoring.builder.example.cars.Car;
+import guru.refactoring.builder.example.cars.Manual;
+import guru.refactoring.builder.example.director.Director;
 
 /**
  * EN: Demo class. Everything comes together here.

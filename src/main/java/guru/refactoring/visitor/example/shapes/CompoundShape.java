@@ -1,6 +1,6 @@
-package refactoring_guru.visitor.example.shapes;
+package guru.refactoring.visitor.example.shapes;
 
-import refactoring_guru.visitor.example.visitor.Visitor;
+import guru.refactoring.visitor.example.visitor.Visitor;
 
 import java.util.ArrayList;
 import java.util.List;

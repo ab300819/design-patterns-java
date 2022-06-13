@@ -1,6 +1,6 @@
-package refactoring_guru.chain_of_responsibility.example.server;
+package guru.refactoring.chain_of_responsibility.example.server;
 
-import refactoring_guru.chain_of_responsibility.example.middleware.Middleware;
+import guru.refactoring.chain_of_responsibility.example.middleware.Middleware;
 
 import java.util.HashMap;
 import java.util.Map;

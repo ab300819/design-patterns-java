@@ -1,4 +1,4 @@
-package refactoring_guru.command.example.commands;
+package guru.refactoring.command.example.commands;
 
 import java.util.Stack;
 

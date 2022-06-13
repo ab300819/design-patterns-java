@@ -1,4 +1,4 @@
-package refactoring_guru.abstract_factory.example.buttons;
+package guru.refactoring.abstract_factory.example.buttons;
 
 /**
  * EN: Abstract Factory assumes that you have several families of products,

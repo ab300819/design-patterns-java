@@ -1,8 +1,8 @@
-package refactoring_guru.observer.example;
+package guru.refactoring.observer.example;
 
-import refactoring_guru.observer.example.editor.Editor;
-import refactoring_guru.observer.example.listeners.EmailNotificationListener;
-import refactoring_guru.observer.example.listeners.LogOpenListener;
+import guru.refactoring.observer.example.editor.Editor;
+import guru.refactoring.observer.example.listeners.EmailNotificationListener;
+import guru.refactoring.observer.example.listeners.LogOpenListener;
 
 public class Demo {
     public static void main(String[] args) {

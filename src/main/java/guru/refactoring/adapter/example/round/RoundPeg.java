@@ -1,4 +1,4 @@
-package refactoring_guru.adapter.example.round;
+package guru.refactoring.adapter.example.round;
 
 /**
  * EN: RoundPegs are compatible with RoundHoles.

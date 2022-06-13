@@ -1,6 +1,6 @@
-package refactoring_guru.memento.example.history;
+package guru.refactoring.memento.example.history;
 
-import refactoring_guru.memento.example.commands.Command;
+import guru.refactoring.memento.example.commands.Command;
 
 import java.util.ArrayList;
 import java.util.List;

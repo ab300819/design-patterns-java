@@ -1,6 +1,6 @@
-package refactoring_guru.factory_method.example.factory;
+package guru.refactoring.factory_method.example.factory;
 
-import refactoring_guru.factory_method.example.buttons.Button;
+import guru.refactoring.factory_method.example.buttons.Button;
 
 /**
  * EN: Base factory class. Note that "factory" is merely a role for the class.

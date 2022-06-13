@@ -1,4 +1,4 @@
-package refactoring_guru.chain_of_responsibility.example.middleware;
+package guru.refactoring.chain_of_responsibility.example.middleware;
 
 /**
  * EN: Base middleware class.

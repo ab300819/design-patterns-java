@@ -1,4 +1,4 @@
-package refactoring_guru.singleton.example.thread_safe;
+package guru.refactoring.singleton.example.thread_safe;
 
 public class DemoMultiThread {
     public static void main(String[] args) {

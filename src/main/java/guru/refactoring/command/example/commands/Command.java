@@ -1,6 +1,6 @@
-package refactoring_guru.command.example.commands;
+package guru.refactoring.command.example.commands;
 
-import refactoring_guru.command.example.editor.Editor;
+import guru.refactoring.command.example.editor.Editor;
 
 public abstract class Command {
     public Editor editor;

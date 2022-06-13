@@ -1,6 +1,6 @@
-package refactoring_guru.bridge.example.remotes;
+package guru.refactoring.bridge.example.remotes;
 
-import refactoring_guru.bridge.example.devices.Device;
+import guru.refactoring.bridge.example.devices.Device;
 
 public class AdvancedRemote extends BasicRemote {
 

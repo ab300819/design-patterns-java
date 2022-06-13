@@ -1,9 +1,9 @@
-package refactoring_guru.visitor.example.visitor;
+package guru.refactoring.visitor.example.visitor;
 
-import refactoring_guru.visitor.example.shapes.Circle;
-import refactoring_guru.visitor.example.shapes.CompoundShape;
-import refactoring_guru.visitor.example.shapes.Dot;
-import refactoring_guru.visitor.example.shapes.Rectangle;
+import guru.refactoring.visitor.example.shapes.Circle;
+import guru.refactoring.visitor.example.shapes.CompoundShape;
+import guru.refactoring.visitor.example.shapes.Dot;
+import guru.refactoring.visitor.example.shapes.Rectangle;
 
 public interface Visitor {
     String visitDot(Dot dot);

@@ -1,4 +1,4 @@
-package refactoring_guru.prototype.example.shapes;
+package guru.refactoring.prototype.example.shapes;
 
 import java.util.Objects;
 

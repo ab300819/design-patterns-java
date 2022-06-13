@@ -1,4 +1,4 @@
-package refactoring_guru.composite.example.shapes;
+package guru.refactoring.composite.example.shapes;
 
 import java.awt.*;
 import java.util.ArrayList;
@@ -132,7 +132,7 @@ public class CompoundShape extends BaseShape {
             disableSelectionStyle(graphics);
         }
 
-        for (refactoring_guru.composite.example.shapes.Shape child : children) {
+        for (guru.refactoring.composite.example.shapes.Shape child : children) {
             child.paint(graphics);
         }
     }

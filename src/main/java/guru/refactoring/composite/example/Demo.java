@@ -1,10 +1,10 @@
-package refactoring_guru.composite.example;
+package guru.refactoring.composite.example;
 
-import refactoring_guru.composite.example.editor.ImageEditor;
-import refactoring_guru.composite.example.shapes.Circle;
-import refactoring_guru.composite.example.shapes.CompoundShape;
-import refactoring_guru.composite.example.shapes.Dot;
-import refactoring_guru.composite.example.shapes.Rectangle;
+import guru.refactoring.composite.example.editor.ImageEditor;
+import guru.refactoring.composite.example.shapes.Circle;
+import guru.refactoring.composite.example.shapes.CompoundShape;
+import guru.refactoring.composite.example.shapes.Dot;
+import guru.refactoring.composite.example.shapes.Rectangle;
 
 import java.awt.*;
 

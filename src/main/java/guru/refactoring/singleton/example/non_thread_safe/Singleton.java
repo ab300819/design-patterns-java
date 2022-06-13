@@ -1,4 +1,4 @@
-package refactoring_guru.singleton.example.non_thread_safe;
+package guru.refactoring.singleton.example.non_thread_safe;
 
 public final class Singleton {
     private static Singleton instance;

@@ -1,4 +1,4 @@
-package refactoring_guru.interpreter.example.expressions;
+package guru.refactoring.interpreter.example.expressions;
 
 public class OrExpression extends AbstractExpressions {
     private final AbstractExpressions first;

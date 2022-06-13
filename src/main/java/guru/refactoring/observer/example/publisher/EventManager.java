@@ -1,6 +1,6 @@
-package refactoring_guru.observer.example.publisher;
+package guru.refactoring.observer.example.publisher;
 
-import refactoring_guru.observer.example.listeners.EventListener;
+import guru.refactoring.observer.example.listeners.EventListener;
 
 import java.io.File;
 import java.util.ArrayList;

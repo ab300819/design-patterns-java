@@ -1,7 +1,7 @@
-package refactoring_guru.visitor.example;
+package guru.refactoring.visitor.example;
 
-import refactoring_guru.visitor.example.shapes.*;
-import refactoring_guru.visitor.example.visitor.XMLExportVisitor;
+import guru.refactoring.visitor.example.shapes.*;
+import guru.refactoring.visitor.example.visitor.XMLExportVisitor;
 
 public class Demo {
     public static void main(String[] args) {

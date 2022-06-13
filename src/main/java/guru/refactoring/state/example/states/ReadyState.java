@@ -1,6 +1,6 @@
-package refactoring_guru.state.example.states;
+package guru.refactoring.state.example.states;
 
-import refactoring_guru.state.example.ui.Player;
+import guru.refactoring.state.example.ui.Player;
 
 /**
  * EN: They can also trigger state transitions in the context.

@@ -1,4 +1,4 @@
-package refactoring_guru.abstract_factory.example.checkboxes;
+package guru.refactoring.abstract_factory.example.checkboxes;
 
 /**
  * EN: All products families have the same varieties (MacOS/Windows).

@@ -1,4 +1,4 @@
-package refactoring_guru.strategy.example.strategies;
+package guru.refactoring.strategy.example.strategies;
 
 /**
  * EN: Common interface for all strategies.

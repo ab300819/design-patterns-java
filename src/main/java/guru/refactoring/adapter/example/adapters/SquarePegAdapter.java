@@ -1,7 +1,7 @@
-package refactoring_guru.adapter.example.adapters;
+package guru.refactoring.adapter.example.adapters;
 
-import refactoring_guru.adapter.example.round.RoundPeg;
-import refactoring_guru.adapter.example.square.SquarePeg;
+import guru.refactoring.adapter.example.round.RoundPeg;
+import guru.refactoring.adapter.example.square.SquarePeg;
 
 /**
  * EN: Adapter allows fitting square pegs into round holes.
